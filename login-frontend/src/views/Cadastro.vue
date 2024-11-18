@@ -5,7 +5,7 @@
     
         <!-- Título da página de cadastro -->
         <h1>CADASTRO</h1>
-    
+        <h2>Cadastro2</h2>
         <!-- Formulário de cadastro -->
         <form @submit.prevent="criarUser">
     
